@@ -1,0 +1,16 @@
++ dodawanie
+- odejmowanie
+* mnozenie
+/ dzielenie
+// dzielenie całkowite
+% dzielenie z resztą
+not operator znaczący "nie"
+<= mniejsze lub równe
+>= większe lub równe
+< mniejsze
+> większe
+** potęgowanie
+== równość
+!= nie równość
+or operator znaczacy "lub"
+and operator znaczącue "i"
